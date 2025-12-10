@@ -49,7 +49,7 @@ Uma Landing page responsiva e com elementos interativos.
 
 ## 📞 Entre em contato comigo
 
-Através do email: 📧 cristianmms@hotmail.com
+Através do email: 📧 cristiansouza_dev@outlook.com
 
 Pelo linkedin: 🔗 www.linkedin.com/in/cristian-mm-souza
 
